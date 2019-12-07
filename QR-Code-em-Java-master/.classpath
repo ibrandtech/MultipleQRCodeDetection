@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/lib/bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/lib/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/lib/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/lib/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/dist/QRCode_Java.jar"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/dist/lib/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/QrCode_sayli/QR-Code-em-Java-master/dist/lib/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/opencv/build/java/opencv-412.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/opencv/build/java/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
